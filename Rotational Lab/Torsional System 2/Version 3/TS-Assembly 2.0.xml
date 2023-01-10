@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="11/16/21||16:53:26" using="Simscape Multibody Link Version 7.0" from="SolidWorks 29.3.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="TS-Assembly 2.0" uid="TS-Assembly 2.0" version="376">
+<AssemblyFile name="TS-Assembly 2.0.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="TS-Mass 2.0-2" uid="TS-Mass 2.0-2" entityUid="TS-Mass 2.0*:*Default">
+<Transform>
+<Rotation>0.99989091373124672 0 0.014770261937165109 0 1 -4.672420570694055e-16 -0.014770261937165109 4.6755992361192899e-16 0.99989091373124672</Rotation>
+<Translation>0.075406852106347691 0.12484990614259078 0.16946798836396315</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Frame 2.0-1" uid="TS-Frame 2.0-1" grounded="true" entityUid="TS-Frame 2.0*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.00040685210634784641 0.046141306142590793 0.16946798836396298</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Bracket 2.0-1" uid="TS-Bracket 2.0-1" entityUid="TS-Bracket 2.0*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0 1 0 -1 0</Rotation>
+<Translation>0.075406852106347844 0.27354130614259081 0.16946798836396296</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Bearing 2.0-2" uid="TS-Bearing 2.0-2" entityUid="TS-Bearing 2.0*:*Default">
+<Transform>
+<Rotation>1 -6.106226635438361e-16 -1.8697478762722726e-14 1.8697478762722726e-14 0 1 -6.10622663543836e-16 -1 0</Rotation>
+<Translation>0.075406852106345706 0.11454130614259225 0.16946798836396301</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Encoder 2.0-2" uid="TS-Encoder 2.0-2" entityUid="TS-Encoder 2.0*:*Default">
+<Transform>
+<Rotation>1 -6.7393590252591419e-16 -1.1948027242674184e-16 1.1948027242674174e-16 4.2268493052020599e-16 1 -6.7393590252591419e-16 -1 3.6717377928894821e-16</Rotation>
+<Translation>0.075406852106347844 0.12554130614259201 0.16946798836396296</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Mass 2.0-1" uid="TS-Mass 2.0-1" entityUid="TS-Mass 2.0*:*Default">
+<Transform>
+<Rotation>0.95964864233856795 0 -0.28120185500409428 0 1 1.7822727584049393e-16 0.28120185500409428 -1.938821409065305e-16 0.95964864233856795</Rotation>
+<Translation>0.075406852106347816 0.22584990614259087 0.1694679883639629</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Bracket 2.0-7" uid="TS-Bracket 2.0-7" entityUid="TS-Bracket 2.0*:*Default">
+<Transform>
+<Rotation>1 1.6653345369377346e-16 -1.8501839136241043e-14 1.8390816833778515e-14 0 1 4.9960036108132044e-16 -0.99999999999999989 0</Rotation>
+<Translation>0.075406852106346525 0.067541306142592183 0.16946798836396307</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Bearing 2.0-1" uid="TS-Bearing 2.0-1" entityUid="TS-Bearing 2.0*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -4.8815798362909937e-16 1 0 -1 -4.3264683239784273e-16</Rotation>
+<Translation>0.075406852106347844 0.21554130614259084 0.16946798836396298</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Spring-1" uid="TS-Spring-1" entityUid="TS-Spring*:*Default">
+<Transform>
+<Rotation>0 0.99999999999999989 0 0 0 -0.99999999999999989 -0.99999999999999989 0 0</Rotation>
+<Translation>0.075406852106347844 0.17614130614259077 0.16946798836396298</Translation>
+</Transform>
+</Instance>
+<Instance name="TS-Encoder 2.0-1" uid="TS-Encoder 2.0-1" entityUid="TS-Encoder 2.0*:*Default">
+<Transform>
+<Rotation>1 0 0 -1.1102230246251563e-16 0 1 0 -1 0</Rotation>
+<Translation>0.07540685210634783 0.22654130614259083 0.16946798836396296</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Encoder 2.0-1</Uid>
+</InstancePath>
+<Position>-0.063099999999999989 -0.025000000000000022 0.0035000000000000031</Position>
+<Axis>6.9388939039072225e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Bracket 2.0-1</Uid>
+</InstancePath>
+<Position>-0.063099999999999989 -0.025000000000000022 0.0035000000000000031</Position>
+<Axis>6.9388939039072225e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Bearing 2.0-1</Uid>
+</InstancePath>
+<Position>0.063099999999999989 -0.024999999999999994 0.0067100000000000215</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>TS-Bearing 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.0029000000000000137</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>TS-Mass 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.2246467991473549e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Bearing 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.0029000000000000137</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Mass 2.0-1</Uid>
+</InstancePath>
+<Position>0 -0.0071085999999999927 0</Position>
+<Axis>1.2246467991473549e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0.074999999999999997 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>TS-Spring-1</Uid>
+</InstancePath>
+<Position>0 0 0.12999999999999995</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0.073090000000000002 0 0.0018369540005128138</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Spring-1</Uid>
+</InstancePath>
+<Position>-0.00098999999999999089 0.0020204949888579238 0.12999999999999995</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Spring-1</Uid>
+</InstancePath>
+<Position>0 0 0.12999999999999995</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>TS-Bearing 2.0-2</Uid>
+</InstancePath>
+<Position>0 0 0.0028999999999999998</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>TS-Mass 2.0-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.2246467991473532e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Bearing 2.0-2</Uid>
+</InstancePath>
+<Position>0 0 0.0028999999999999998</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Mass 2.0-2</Uid>
+</InstancePath>
+<Position>0 -0.0071086000000000066 0</Position>
+<Axis>1.2246467991473532e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Encoder 2.0-2</Uid>
+</InstancePath>
+<Position>-0.063099999999999989 -0.024999999999999994 0.0035000000000000031</Position>
+<Axis>6.9388939039072234e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Bearing 2.0-2</Uid>
+</InstancePath>
+<Position>0.063100000000000003 -0.024999999999999994 0.0067099999999999937</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Frame 2.0-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>TS-Bracket 2.0-7</Uid>
+</InstancePath>
+<Position>-0.063099999999999989 -0.024999999999999994 0.003500000000000017</Position>
+<Axis>1.0269562977782694e-15 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="TS-Bearing 2.0" uid="TS-Bearing 2.0*:*Default" version="310">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TS-Bearing 2.0.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0083299562312835716</Mass>
+<CenterOfMass>1.5332714363568714e-05 -0.00020637290478637481 0.0031806962315158475</CenterOfMass>
+<Inertia>6.3990058176397882e-07 1.6112570419588796e-05 1.6688507968277877e-05 -3.4148270388436806e-11 3.2960868932648175e-10 6.3046467029407254e-11</Inertia>
+</MassProperties>
+<GeometryFile name="TS-Bearing 2.0_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TS-Bracket 2.0" uid="TS-Bracket 2.0*:*Default" version="278">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TS-Bracket 2.0.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0035446996448362106</Mass>
+<CenterOfMass>0 -0.00027779507638974442 0.001694456189541009</CenterOfMass>
+<Inertia>2.769709224449971e-07 8.719757344910171e-06 8.9893699165796098e-06 -8.3126291452960794e-11 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="TS-Bracket 2.0_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TS-Encoder 2.0" uid="TS-Encoder 2.0*:*Default" version="287">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TS-Encoder 2.0.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0038554589833178143</Mass>
+<CenterOfMass>3.3127272293245809e-05 -0.00024760939445185538 0.0016983731863146065</CenterOfMass>
+<Inertia>2.9882513420840585e-07 8.7404422258009624e-06 9.0312710116038568e-06 -9.0046116402636104e-11 1.4028514550067921e-10 5.7779707952227198e-11</Inertia>
+</MassProperties>
+<GeometryFile name="TS-Encoder 2.0_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TS-Frame 2.0" uid="TS-Frame 2.0*:*Default" version="326">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TS-Frame 2.0.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.30148846724322315</Mass>
+<CenterOfMass>0.075000000000000025 0.12499999999999983 -3.654123332615808e-06</CenterOfMass>
+<Inertia>0.0026302595362276714 0.0012068416667893615 0.0037136459984072885 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="TS-Frame 2.0_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69411764705882351" g="0.098039215686274508" b="0.098039215686274508" a="1"/>
+<Diffuse r="0.48588235294117643" g="0.068627450980392149" b="0.068627450980392149" a="1"/>
+<Specular r="0.034705882352941177" g="0.0049019607843137254" b="0.0049019607843137254" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TS-Mass 2.0" uid="TS-Mass 2.0*:*Default" version="156">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TS-Mass 2.0.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.033783105009181358</Mass>
+<CenterOfMass>0 -0.0015054684356424113 1.8857359147636661e-06</CenterOfMass>
+<Inertia>3.0426892549015823e-05 6.0801656529246871e-05 3.0426818133111665e-05 1.3052289319960645e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="TS-Mass 2.0_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TS-Spring" uid="TS-Spring*:*Default" version="124">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TS-Spring.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0031873178291330654</Mass>
+<CenterOfMass>0.00044856981910228026 0 0</CenterOfMass>
+<Inertia>1.7959611579219483e-05 1.795755480620044e-05 6.7188438540573783e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="TS-Spring_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

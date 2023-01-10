@@ -1,0 +1,48 @@
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Encoder 2.0-1', 'TS-Encoder 2.0-1'
+Constraint Name: Width3
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Encoder 2.0-1', 'TS-Encoder 2.0-1'
+Constraint Name: Width4
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Bracket 2.0-1', 'TS-Bracket 2.0-1'
+Constraint Name: Width5
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Bracket 2.0-1', 'TS-Bracket 2.0-1'
+Constraint Name: Width6
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Bearing 2.0-1', 'TS-Bearing 2.0-1'
+Constraint Name: Width7
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Bearing 2.0-1', 'TS-Bearing 2.0-1'
+Constraint Name: Width8
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Encoder 2.0-2', 'TS-Encoder 2.0-2'
+Constraint Name: Width17
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Encoder 2.0-2', 'TS-Encoder 2.0-2'
+Constraint Name: Width18
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Bearing 2.0-2', 'TS-Bearing 2.0-2'
+Constraint Name: Width19
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Frame 2.0-1', 'TS-Frame 2.0-1', 'TS-Bearing 2.0-2', 'TS-Bearing 2.0-2'
+Constraint Name: Width20
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Bracket 2.0-7', 'TS-Bracket 2.0-7', 'TS-Frame 2.0-1', 'TS-Frame 2.0-1'
+Constraint Name: Width23
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'TS-Bracket 2.0-7', 'TS-Bracket 2.0-7', 'TS-Frame 2.0-1', 'TS-Frame 2.0-1'
+Constraint Name: Width25
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
