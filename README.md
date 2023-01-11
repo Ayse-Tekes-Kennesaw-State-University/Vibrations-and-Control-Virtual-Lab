@@ -14,6 +14,8 @@ You can download and run simulations on MATLAB R2021b or newer versions of MATLA
 - Validate the theoretical equations obtained from Newton's Laws of Motion or Lagrange Equations through simulations
 
 #### Learning Activities
-Seven (7) laboratory handouts are created in MATLAB Live Editor. 
-- Lab 1: Introduction to MATLAB
-- Lab 2: 
+Four laboratory handouts are created in MATLAB Live Editor. 
+1. MATLAB Live Editor Practice
+2. Vibration Isolation
+3. Mode Ratios
+4. Forced Vibrations
