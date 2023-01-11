@@ -1,5 +1,6 @@
+[![View Translational and Rotational Vibrations Virtual Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111285-translational-and-rotational-vibrations-virtual-lab)
 # Translational and Rotational Vibrations and Control Lab
-This repositorys includes translational, rotational, and control labs
+This repository includes translational, rotational, and control labs
 You can download and run simulations on MATLAB R2021b or newer versions of MATLAB. You can also run simulations using MATLAB Online. The virtual labs can be utilized in undergraduate level Mechanical Vibrations, Control Theory and their associated laboratories.
 
 #### The learning objectives that are tied to the virtual labs are:
