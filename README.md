@@ -1,5 +1,5 @@
 [![View Translational and Rotational Vibrations Virtual Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111285-translational-and-rotational-vibrations-virtual-lab)
-# Translational and Rotational Vibrations and Control Lab
+# Vibrations and Control Virtual Lab
 This repository includes translational, rotational, and control labs
 You can download and run simulations on MATLAB R2021b or newer versions of MATLAB. 
 <p>
@@ -33,7 +33,8 @@ More specifically,
 3. [Vibration isolator](https://www.youtube.com/watch?v=2kpYW4cosYA&t=3s) design using the virtual lab 
 4. [PID Control Design](https://www.youtube.com/watch?v=PCyS5gHgYF0&t=52s) using Control Virtual Lab
 
-
+#### Additional Resources
+Our publications are also 
 
 
 
