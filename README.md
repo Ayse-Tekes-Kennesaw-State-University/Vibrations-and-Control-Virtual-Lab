@@ -27,14 +27,12 @@ You will find more lab handouts for vibrations and control laboratories in https
 
 #### Introductory Videos
 You will find videos on our [Youtube Channel](https://www.youtube.com/@aysetekes-virtuallabforeng6419/videos). 
-<p>
 More specifically,
 1. [Introductory video](https://www.youtube.com/watch?v=-PQNEZjs-Vo) on how to use the translational virtual labs
 2. [Finding the mode ratios with the theory](https://www.youtube.com/watch?v=r5evFOfwi5E&t=3s)
-3. [Vibration isolator](https://www.youtube.com/watch?v=2kpYW4cosYA&t=3s) design using the virtual lab
-4. 
+3. [Vibration isolator](https://www.youtube.com/watch?v=2kpYW4cosYA&t=3s) design using the virtual lab 
 
-<p>
+
 
 
 
