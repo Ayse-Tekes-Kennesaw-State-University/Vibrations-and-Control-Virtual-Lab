@@ -20,3 +20,6 @@ Four laboratory handouts are created in MATLAB Live Editor.
 2. Vibration Isolation
 3. Mode Ratios
 4. Forced Vibrations
+
+https://user-images.githubusercontent.com/86011214/212102236-f32304f5-d12c-4fb1-9185-0552177c39e0.mp4
+
