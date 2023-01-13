@@ -33,8 +33,6 @@ More specifically,
 3. [Vibration isolator](https://www.youtube.com/watch?v=2kpYW4cosYA&t=3s) design using the virtual lab 
 4. [PID Control Design](https://www.youtube.com/watch?v=PCyS5gHgYF0&t=52s) using Control Virtual Lab
 
-#### Additional Resources
-Our publications are also 
 
 
 
