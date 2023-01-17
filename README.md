@@ -1,5 +1,5 @@
 [![View Translational and Rotational Vibrations Virtual Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111285-translational-and-rotational-vibrations-virtual-lab)
-# Vibrations and Control Virtual Lab
+# Vibrations and Control Virtual Lab Designed for Vibrations, Control Theory and Their Associated Laboratories
 ![image](https://user-images.githubusercontent.com/86011214/212409139-8e5b525e-645b-4f0d-b250-463bd2c7c847.png)
 This repository includes translational, rotational, and control labs
 You can download and run simulations on MATLAB R2021b or newer versions of MATLAB. 
